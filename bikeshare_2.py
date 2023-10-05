@@ -2,7 +2,7 @@ import time
 import pandas as pd
 import numpy as np
 
-#dictionary containing the data for the three cities
+#dictionary for the three cities
 CITY_DATA = { 'chicago': 'data/chicago.csv', 'Chicago': 'data/chicago.csv',
              'New York City': 'data/new_york_city.csv', 'New york city': 'data/new_york_city.csv',
               'new york city': 'data/new_york_city.csv', 'washington': 'data/washington.csv',
@@ -32,7 +32,7 @@ def get_filters():
 
     print(f"\nYou have picked {city.title()} as your city.")
 
-    #dictionary to store the months including the 'all' option
+    #dictionary for the months including the 'all' option
     MONTH_DATA = {'january': 1, 'february': 2, 'march': 3, 'april': 4, 'may': 5, 'june': 6, 'all': 7}
     month = ''
     while month not in MONTH_DATA.keys():
