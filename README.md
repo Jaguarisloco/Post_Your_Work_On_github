@@ -20,8 +20,8 @@ In this project, you will make use of Python to explore data related to bike sha
    * washington.csv
 
 ### Credits
-* [https://pandas.pydata.org/docs/](Pandas documentation is very useful.)
-* [https://numpy.org/doc/](Numpy documentation.)
-* [https://docs.python.org/3/tutorial/controlflow.html](Python documentation for controlflow.)
-* [https://stackoverflow.com/](StackOverflow)
+* (Pandas documentation is very useful.)[https://pandas.pydata.org/docs/]
+* (Numpy documentation.)[https://numpy.org/doc/]
+* (Python documentation for controlflow.)[https://docs.python.org/3/tutorial/controlflow.html]
+* (StackOverflow)[https://stackoverflow.com/]
 
